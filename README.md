@@ -1,11 +1,5 @@
 - 👋 Hi, I’m @Doessing
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- GitHub :)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Doessing/Doessing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in IT and OT security, building secure infrastructures, and contributing to the green energy transition. I’m also passionate about collaborating on complex problem-solving and exploring the latest technologies in cybersecurity.
+- 🌱 I’m currently learning how to design and implement scalable IT platforms with cutting-edge security by design and zero-trust principles, both on-prem and Cloud.
+- 💞️ I’m looking to collaborate on projects that drive innovation in critical infrastructure, support sustainable energy solutions, or focus on operational resilience and cybersecurity challenges.
+- 📫 How to reach me: Feel free to connect with me here on [@Doessing](https://github.com/Doessing) or on [LinkedIn Søren Døssing](https://www.linkedin.com/in/sorendossing/)
